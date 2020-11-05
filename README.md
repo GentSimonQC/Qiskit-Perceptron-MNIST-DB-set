@@ -7,7 +7,7 @@ It binary classifies handwritten digits, no training.
 
 # REQUIREMENTS
 I used Qiskit Library for Python 3.6.
-HEre you also need imageio and elasticdeform libraries.
+Here you also need imageio and elasticdeform libraries.
 
 
 # PURPOSE
@@ -45,3 +45,4 @@ in other words the algo uses the modified-entropy in order to dismiss the digits
 
 
 
+a
