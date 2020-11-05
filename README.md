@@ -42,7 +42,3 @@ you can ignore BINARY GUESS: ... and SOLUTIONS: ..., and you can focus on ERROR 
 
 Case 2: RECOGNIZER. In the case the_other_class_num_array is 3-elements array or larger than 3-elements (e.g.: [3,4,7]). In this case what_number_label (e.g.: 3) will be checked against all the digits in the_other_class_num_array, one by one. You will get a modified-entropy table and - most of the times - a decision,
 in other words the algo uses the modified-entropy in order to dismiss the digits that are different (ENTROPY[kk] >= 2.05) and to make educated guesses on the digit what_number_label (e.g.: 'BINARY GUESS: 3' because the digit with the least cumulated modified-entropy is the winner = the most similar).
-
-
-
-a
