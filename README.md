@@ -6,7 +6,7 @@ It binary classifies handwritten digits, no training.
 
 
 # REQUIREMENTS
-I used IMB Qiskit Library for Python 3.6.
+I used Qiskit Library for Python 3.6.
 HEre you also need imageio and elasticdeform libraries.
 
 
