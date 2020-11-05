@@ -26,7 +26,7 @@ Only relevant parameters are:
 
 - what_number_label (you can type in a digit between 0 and 9)
 
-- the_other_class_num_array (array of digits against which you want to compare the digit above)
+- the_other_class_num_array (array of 0-9 digits against which you want to compare the digit above)
 
 - divisorpower [NO NEED TO CHANGE IT] (it is a function of the number of columns [features] in the dataframe... ~0.13 x the number of columns... no need to play with it in this stage)
 
