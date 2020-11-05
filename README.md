@@ -16,6 +16,7 @@ I commented as much I can and the aim of the algo is to classify each sample inp
 
 
 # STRUCTURE
+'Qperceptron_mnistcomm.py' is the main file.
 Library 'DB_MNIST_checkpunctual.py' loads the files, preprocesses the data and creates/distributes the classes,
 Library 'Generative_Layer_for_DB_MNIST_FWD.py' serves for creating unknown handwritten images (via imageio and elasticdeform) so to test the error when 'Qperceptron_mnistcomm.py' tells you 'same class' or 'different class' after measurement over 3 qubits. The manipulation of the qubits is my personal variation of QFT algos and the algo is the same as Qiskit-Perceptron-iris-DB-set one.
 
